@@ -1,2 +1,2 @@
 # BACKSTAGE
-meus recentes projetos em programção em lincuagem C
+meus recentes projetos de programção em lincuagem C
